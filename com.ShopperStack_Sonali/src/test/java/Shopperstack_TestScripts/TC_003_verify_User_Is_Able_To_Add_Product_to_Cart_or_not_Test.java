@@ -10,7 +10,7 @@ import com.ShopperStack_POM.Payment_Page;
 
 import Shopperstack_GenericUtility.Base_Test;
 
-public class TC_003_verify_User_Is_Able_To_Add_Product_to_Cart_or_not extends Base_Test {
+public class TC_003_verify_User_Is_Able_To_Add_Product_to_Cart_or_not_Test extends Base_Test {
 
 	@Test
 	public void orderProduct() throws InterruptedException, IOException {
