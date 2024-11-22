@@ -12,6 +12,7 @@ public class Java_Utility {
 		int num = r.nextInt(1000);
 		return num;
 		
+		
 	}
 	
 	public String localDate() {
